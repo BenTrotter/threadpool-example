@@ -1,4 +1,9 @@
 //made by Ben
+/**
+ * 
+ * @author Ben
+ *
+ */
 public class Job implements Runnable {
   private int jobNumber;
   
